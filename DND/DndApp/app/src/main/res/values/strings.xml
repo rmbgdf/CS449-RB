@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dnd App</string>
+    <string name="_1d6">1D6</string>
+    <string name="_1d4">1D4</string>
+    <string name="_1d12">1D12</string>
+    <string name="_1d20">1D20</string>
+    <string name="_1d100">1D100</string>
+    <string name="_1d8">1D8</string>
+    <string name="_1d10">1D10</string>
+    <string name="waiting_for_roll">Waiting for roll...</string>
+</resources>
