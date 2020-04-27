@@ -21,4 +21,5 @@
     <string name="charisma_score">Charisma Score</string>
     <string name="intelligence_score">Intelligence Score</string>
     <string name="speed">Speed</string>
+    <string name="enter_inventory_below">Enter Inventory below</string>
 </resources>
