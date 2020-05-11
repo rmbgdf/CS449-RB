@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Character Page DndApp</string>
+    <string name="cha">CHA</string>
+    <string name="level">Level</string>
+    <string name="walk_speed">Walk Speed</string>
+    <string name="string_walk_speed" />
+    <string name="string_string_walk_speed" />
+    <string name="string_string_string_walk_speed" />
+    <string name="proficiency">Proficiency</string>
+    <string name="name">Name</string>
+    <string name="class">Class</string>
+    <string name="string_class" />
+    <string name="dex">DEX</string>
+    <string name="str">STR</string>
+    <string name="con">CON</string>
+    <string name="dexterity">Dexterity</string>
+    <string name="constitution">Constitution</string>
+    <string name="strength">Strength</string>
+    <string name="intelligence">Intelligence</string>
+    <string name="wis">WIS</string>
+    <string name="wisdom">Wisdom</string>
+    <string name="charisma">Charisma</string>
+    <string name="int">INT</string>
+    <string name="int">INT</string>
+    <string name="player_class">Player_class</string>
+    <string name="input_character_name">Input Character Name</string>
+    <string name="input_class">Input Class</string>
+    <string name="input_character_level">Input Character Level</string>
+    <string name="str">STR</string>
+    <string name="con">CON</string>
+    <string name="int">INT</string>
+    <string name="wis">WIS</string>
+    <string name="cha">CHA</string>
+    <string name="save">Save</string>
+    <string name="intel">intel</string>
+</resources>
